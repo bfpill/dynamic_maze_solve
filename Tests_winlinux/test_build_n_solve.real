@@ -1,0 +1,137 @@
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+[H[J
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue: 
+Enter the basePoint of maze:
+Enter the length and width of maze:
+
+Maze read successfully
+**Printing Maze**
+BasePoint: (-300, -50, -300)
+Structure:
+xxxxx
+x.x..
+x.x.x
+x...x
+xxxxx
+**End Printing Maze**
+Enter any key to continue:
+[H[J
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+[H[J
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+[H[J
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+[H[J
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+Step[1]: (-298, -49, -297)
+Step[2]: (-299, -49, -297)
+Step[3]: (-299, -49, -298)
+Step[4]: (-299, -49, -299)
+Step[5]: (-299, -49, -299)
+Step[6]: (-299, -49, -299)
+Step[7]: (-299, -49, -298)
+Step[8]: (-299, -49, -297)
+Step[9]: (-299, -49, -297)
+Step[10]: (-298, -49, -297)
+Step[11]: (-297, -49, -297)
+Step[12]: (-297, -49, -297)
+Step[13]: (-297, -49, -298)
+Step[14]: (-297, -49, -299)
+Step[15]: (-296, -49, -299)
+Step[16]: (-295, -49, -299)
+Step[17]: (-295, -49, -298)
+Enter any key to continue:
+[H[J
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+Team members:
+	 [1] Maxwell Adam (s4022483@student.rmit.com)
+	 [2] Jimmy Vu (s4006701@student.rmit.edu.au)
+	 [3] Riveen Perera (s3896471@student.rmit.edu.au)
+
+Enter any key to continue
+[H[J
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+68
+
+The End!
+

@@ -1,0 +1,134 @@
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+[H[J
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue: 
+Enter the basePoint of maze:
+Enter the length and width of maze:
+
+Maze read successfully
+**Printing Maze**
+BasePoint: (-30000, -60, -3000)
+Structure:
+xxxxx
+....x
+xxx.x
+x...x
+xxxxx
+**End Printing Maze**
+Enter any key to continue:
+[H[J
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+[H[J
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+[H[J
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+[H[J
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+Step[1]: (-29998, -60, -2997)
+Step[2]: (-29999, -60, -2997)
+Step[3]: (-29999, -60, -2997)
+Step[4]: (-29999, -60, -2997)
+Step[5]: (-29998, -60, -2997)
+Step[6]: (-29997, -60, -2997)
+Step[7]: (-29997, -60, -2997)
+Step[8]: (-29997, -60, -2998)
+Step[9]: (-29997, -60, -2999)
+Step[10]: (-29997, -60, -2999)
+Step[11]: (-29998, -60, -2999)
+Step[12]: (-29999, -60, -2999)
+Step[13]: (-30000, -60, -2999)
+Step[14]: (-30001, -60, -2999)
+Step[15]: (-30001, -60, -3000)
+Enter any key to continue:
+[H[J
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+Team members:
+	 [1] Maxwell Adam (s4022483@student.rmit.com)
+	 [2] Jimmy Vu (s4006701@student.rmit.edu.au)
+	 [3] Riveen Perera (s3896471@student.rmit.edu.au)
+
+Enter any key to continue
+[H[J
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+The End!
+

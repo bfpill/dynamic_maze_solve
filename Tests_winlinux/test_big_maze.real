@@ -1,0 +1,144 @@
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+[H[J
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue: 
+Enter the basePoint of maze:
+Enter the length and width of maze:
+Length and width need to be odd
+Enter the length and width of maze:
+
+Maze read successfully
+**Printing Maze**
+BasePoint: (1245, -60, 1245)
+Structure:
+xxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x.x...x.....x.......x...........x...x.....x.............x.....x...x...........x.....................x
+x.xxx.x.xxx.x.x.x.xxx.x.xxxxxxx.x.x.x.x.x.x.xxxxx.xxxxx.x.xxx.x.x.xxx.xxxxxxx.x.xxxxxxx.xxxxxxxxxxx.x
+x...x.x.x...x.x.x.x...x...x.x...x.x.x.x.x.x.x...x.....x...x...x.x.....x...x.x.x.x.....x.....x...x...x
+x.xxx.x.x.xxx.x.xxx.xxxxx.x.x.xxx.x.x.x.x.xxx.x.xxxxx.xxxxx.xxx.xxxxxxx.x.x.x.xxx.xxx.xxxxx.x.x.x.xxx
+x.....x.x...x.x.x.....x...x.x.x.x.x...x.x.....x.....x.x...x.x...x...x...x.x.x.x...x...x...x.x.x.x...x
+x.xxxxx.xxxxx.x.x.xxxxx.xxx.x.x.x.xxxxx.xxxxxxxxxxx.x.x.xxx.x.xxx.x.x.xxx.x.x.x.xxx.xxx.x.x.xxx.xxx.x
+x.....x.......x.x.x.x...x...x.x.......x.x.......x...x.x.......x...x...x.....x...x.x.x...x.x...x.x...x
+xxxxx.xxxxxxxxx.x.x.x.xxxxx.x.xxxxxxx.x.xxx.x.xxx.xxx.x.xxxxxxx.x.x.xxxxxxxxxxxxx.x.x.xxx.xxx.x.x.xxx
+x.x...x.....x...x...x.x.....x.......x.x...x.x.........x.x.....x.x.x.x...x...x.......x.x.x.....x.x.x.x
+x.x.xxx.xxx.x.xxx.xxx.x.xxx.xxxxxxx.xxxxx.xxx.xxxxxxxxxxx.xxx.xxx.xxx.x.x.x.x.xxxxxxx.x.xxxxxxx.x.x.x
+x.x.x...x...x.x...x...x...x.....x...x...x...x.x.x...........x...x.x...x...x...x.......x.........x...x
+x.x.x.xxx.xxx.x.xxx.xxx.x.xxxxxxx.xxx.x.x.x.x.x.x.xxxxxxxxxxxxx.x.x.xxxxxxxxxxx.xxxxxxx.xxx.xxx.xxx.x
+x.x.x.x.......x.x...x...x...x.....x...x.x.x.x...x...x.....x.....x...x.x.........x.x.....x.x.x...x...x
+x.x.x.xxxxxxx.x.x.xxx.xxxxx.x.xxxxx.xxx.x.x.xxx.xxx.xxxxx.x.xxxxx.xxx.x.xxxxx.xxx.x.xxxxx.x.xxxxx.xxx
+x.x.x.......x.x.x...x.x...x.x.x.....x.x.x.x...x.x.x.......x...x.x.x.........x.x...x...x...x.......x.x
+x.x.xxxxxxx.xxx.xxx.x.xxx.x.x.xxx.xxx.x.x.xxx.x.x.xxxxxxx.xxx.x.x.xxxxxxx.xxx.x.xxxxx.x.x.xxxxxxxxx.x
+x.x.......x.....x.x.x.....x.x.x...x...x.x.x.x.x.....x...x.x.x.x.x.....x...x...x.....x.x.x.x.......x.x
+x.xxxxxxx.xxxxx.x.x.xxxxx.x.x.x.xxx.x.x.x.x.x.xxxxxxx.x.x.x.x.x.xxxxx.xxxxx.xxxxx.x.x.x.x.xxx.x.x.x.x
+x.x.......x...x.x.x.....x.x.x...x.x.x.x.x...x.........x.x...x.x.x...x.....x.x.....x.x.x.x...x.x.x.x.x
+x.x.xxxxxxx.x.x.x.xxxxx.xxx.xxxxx.x.x.x.xxx.xxxxxxxxxxx.xxx.x.x.x.x.xxxxx.x.x.xxxxxxx.x.xxx.xxx.x.x.x
+x.x...x.....x.x...x.....x...x.....x.x.x.x.x.x.........x.....x.x...x.....x...x.x.....x.x.x...x...x...x
+x.xxx.xxx.xxx.xxx.x.xxxxx.xxx.x.xxx.x.x.x.x.xxxxxxx.xxxxxxxxx.x.xxxxx.xxxxxxx.x.xxx.x.x.xxx.x.xxxxx.x
+x...x...x.x.x.x...x.x.....x...x.....x...x...x.....x.x.......x.x.x...x.........x.x...x.x...x...x...x.x
+x.x.xxx.x.x.x.x.xxx.xxx.x.x.xxxxxxxxxxxxx.xxx.xxx.x.x.xxx.x.x.x.xxx.xxxxx.xxx.x.x.xxx.x.x.xxxxx.x.x.x
+x.x...x...x...x.x.x...x.x.........x.....x...x.x...x.....x.x.x.x.....x...x...x...x.x...x.x.x...x.x.x.x
+x.xxx.xxxxx.xxx.x.xxx.xxxxxxxxxxx.xxx.x.xxx.x.x.xxxxxxxxx.xxx.xxxxxxx.x.xxxxxxxxx.x.xxxxx.x.xxx.x.x.x
+x.x...x...x.x...x...x...x...x...x.....x...x.x.x...x.......x...x.......x.........x.x.x.....x.....x...x
+xxx.x.x.x.x.xxx.x.x.xxx.x.x.x.xxxxxxxxxxx.x.x.xxx.x.xxxxx.x.xxx.xxxxx.xxxxxxxxx.x.x.x.xxxxx.xxxxxxxxx
+x...x...x.x...x...x...x...x.x...........x.x...x.....x.....x...x.x...x.......x.x.x.....x...x.....x...x
+x.xxxxxxxxxxx.xxxxxxx.xxxxx.x.xxxxxxxxx.x.xxxxx.xxxxxxxxxxxxx.x.x.x.xxxxxxx.x.x.xxxxxxx.x.xxxxx.xxx.x
+x.x.........x.x...x...x.x...x.x.......x.......x.x...........x...x.x...x...x.x.x...x...x.x.....x.x...x
+x.x.xxxxxxx.x.xxx.x.xxx.x.xxx.xxx.xxxxxxxxxxx.xxx.xxxxxxxxx.xxxxx.xxx.x.xxx.x.xxx.xxx.x.xxx.xxx.x.x.x
+x...x...x...x...x.x...x.x.x.......x.......x.......x.....x.x.....x...x.x.....x...x.x...x...x...x.x.x.x
+x.xxx.x.x.xxxxx.x.xxx.x.x.x.xxxxxxx.xxxxx.x.xxxxxxx.x.x.x.xxxxx.xxx.x.xxx.xxxxx.x.x.xxxxx.xxx.x.x.xxx
+x.....x.x.....x.x...x...x.x...x.........x.x...x...x.x.x.......x.....x...x.x.....x.x.........x...x...x
+xxxxxxx.xxxxx.x.x.xxx.xxx.x.xxx.xxxxxxxxx.xxxxx.x.x.x.xxxxx.xxxxxxxxxxx.x.xxx.x.x.x.xxxxxxx.xxxxxxx.x
+x.......x...x.x.x.....x...x.x.....x.....x.x.....x.x.x.....x.x.....x.....x.x...x.x.x.x.....x.........x
+x.xxxxxxx.x.x.x.x.xxxxx.xxxxx.xxxxx.xxx.x.x.xxxxx.xxxxx.x.xxx.x.xxx.xxxxx.x.xxxxx.xxx.xxx.xxxxx.xxxxx
+x.....x...x...x.x.x...x.......x.x...x.x.x...x.x...x...x.x.....x...x.....x.x.....x...x...x.x.....x...x
+xxxxx.x.xxx.xxx.x.x.x.xxxxxxxxx.x.xxx.x.x.xxx.x.xxx.x.xxxxx.xxxxx.xxxxx.x.x.xxx.xxx.xxx.x.xxx.xxx.x.x
+x...x.x...x.x...x.x.x.x.........x.x...x.x.....x.....x.....x...x.x.....x.x.x...x...x.x...x...x.x...x.x
+x.x.x.xxx.x.x.xxx.x.x.x.xxxxxxxxx.x.x.x.xxxxxxxxxxxxx.xxx.xxx.x.x.xxx.x.x.xxxxx.x.x.x.xxxxx.xxx.xxx.x
+x.x...x...x.x...x...x...x.........x.x.x.......x.....x.x...x.x...x...x.x.x.....x.x.x...x...x.....x...x
+x.xxxxx.xxxxxxx.xxxxx.xxx.xxxxxxxxx.x.xxxxxxx.x.xxx.xxx.xxx.xxx.xxx.xxx.xxxxx.x.x.xxxxx.x.xxxxx.x.x.x
+x.x.x...x.....x.x.....x...x.........x.......x...x.x.....x.......x...x...x...x...x...x...x.....x.x.x.x
+x.x.x.x.x.xxx.x.x.xxxxx.xxx.x.xxxxxxxxxxxxxxxxxxx.xxxxxxx.xxxxxxx.x.x.xxx.x.xxxxxxx.x.xxxxxxx.xxx.x.x
+x...x.x.x.x.x...x...x...x...x.........................x.....x...x.x.x...x.x.......x.x...x...x.....x.x
+x.xxx.x.x.x.xxxxxxxxx.xxx.xxxxxxxxxxx.xxxxxxxxxxx.xxx.xxxxxxx.x.x.x.xxx.x.x.xxxxxxx.xxx.x.xxxxxxxxx.x
+x.x...x.x.x.........x.x.......x.....x.x...x.....x.x...x...x...x.x.x.x...x.x.x.....x.x.x.x.........x.x
+x.x.xxx.x.xxxxxxx.x.x.xxxxxxx.x.xxx.x.x.x.x.xxx.x.x.xxx.x.x.xxx.x.xxx.xxxxx.x.xxx.x.x.x.xxxxxxx.xxx.x
+x.x...x.x...x.....x.x.x...x...x.x...x...x.x.x.....x.....x.x...x.x...x.....x.x.x.x.x.x.x.x.....x.....x
+x.xxx.xxxxx.x.xxxxx.x.x.x.xxx.x.x.xxxxxxx.x.xxxxxxxxxxxxx.xxx.x.xxx.xxxxx.x.x.x.x.x.x.x.x.xxx.xxxxxxx
+x.x.x.....x.x.....x.x.x.x...x.x.x.....x.x.x...x.........x.x...x...x...x...x.....x.x...x...x.x.......x
+x.x.xxxxx.x.x.xxx.x.x.x.xxx.xxx.xxxxx.x.x.xxx.xxxxx.x.xxx.x.xxxxx.x.xxx.xxxxx.xxx.xxx.xxxxx.xxxxxxx.x
+x.x.....x...x.x...x...x.x.x...x.....x.x...x...x...x.x.x.....x.....x...x.....x.x.....x...x.....x.x...x
+x.xxxxx.xxxxxxx.xxxxx.x.x.xxx.xxx.xxx.xxxxx.xxx.x.xxx.x.xxxxxxxxx.x.x.xxxxx.x.x.x.xxxxx.xxx.x.x.x.x.x
+x.x.....x.......x.....x...x...x...x...x.....x...x...x...x.......x.x.x...x...x.x.x.x...x.x...x...x.x.x
+x.x.xxx.x.xxxxxxxxxxxxxxx.x.xxx.xxx.xxx.xxx.x.xxxxx.xxxxx.xxxxx.x.xxx.xxx.xxx.x.xxx.x.x.x.xxxxx.x.xxx
+x...x.x.x.............x...x.....x.x...x.x...x.....x.x...x.....x.x...x...x...x.x.....x...x.x.x...x...x
+xxxxx.x.x.xxxxxxxxxxx.x.xxxxxxx.x.xxx.x.xxxxxxxxx.x.x.x.xxx.xxx.xxx.x.x.xxx.x.xxxxxxxxx.x.x.x.xxxxx.x
+x.x...x.x.....x.......x.x.....x.....x.x...........x.x.x.x...x...x...x.x.x...x...x.....x...x.....x...x
+x.x.x.x.xxxxxxx.xxxxx.x.x.xxx.xxx.xxx.x.xxxxxxxxxxx.x.x.x.xxx.xxx.xxxxx.x.xxxxx.x.xxx.xxxxxxxxxxx.x.x
+x...x.x.......x.....x.x.x...x.x.x.x...x.....x.....x...x...x.x.x.x.....x.x.x...x.x.x...x.........x.x.x
+x.xxx.xxxxxxx.x.xxx.xxx.xxx.x.x.x.x.xxxxx.xxx.xxx.x.xxxxxxx.x.x.xxxxx.x.x.x.xxx.x.x.xxx.xxxxxxx.x.xxx
+x...x.....x...x.x.x...x.x...x.x.x.x.....x.x...x...x.......x.x.x.....x...x.x.....x.x.x.......x.x.x...x
+xxxxx.xxx.x.xxx.x.xxx.x.x.xxx.x.x.xxxxx.xxx.xxx.xxxxxxxxx.x.x.xxx.x.xxx.x.xxxxx.x.x.x.xxxxx.x.x.x.x.x
+x.....x...x...x.x...x...x...x.x.......x.....x.x...x.....x...x...x.x...x.x.....x.x.x.x.x.....x...x.x.x
+x.xxxxx.xxxxx.x.x.xxxxxxxxx.x.xxxxxxx.xxxxxxx.xxx.xxxxx.xxx.xxx.x.xxxxx.xxxxx.xxx.x.xxx.xxxxx.xxxxx.x
+x.x.........x.x.x.....x.....x.....x...........x...x...x.....x...x...........x.....x.x...x...x.....x.x
+x.xxxxxxxxxxx.x.xxx.xxx.xxxxxxxxx.xxxxxxxxxxx.x.xxx.x.x.xxxxx.xxxxxxxxxxxxxxxxxxxxx.x.xxxxx.xxxxx.x.x
+x.x...x...x...x...x...x...x.....x.........x...x.....x.x.x...x.x...................x...x...x.x...x.x.x
+x.x.x.x.x.x.xxxxx.xxx.xxx.xxxxx.xxxxxxxxx.xxxxxxxxxxx.x.xxx.x.x.xxxxxxxxx.xxxxxxx.xxxxx.x.x.x.x.x.x.x
+x.x.x...x.x.....x.......x.....x.....x...x.....x.......x.....x...x...x...x.......x.......x...x.x...x.x
+x.x.xxxxx.xxxxx.xxx.xxxxx.xxx.xxxxx.x.x.xxxxx.x.xxxxxxxxxxx.xxxxx.x.x.x.xxxxxxxxx.xxx.xxxxxxx.xxxxx.x
+x.....x...x...x.x...x...x...x.x.....x.x.....x...x.....x.....x...x.x.x.x...x.......x...x.....x.....x.x
+x.xxxxx.x.x.x.x.xxxxx.x.xxxxx.x.xxxxx.xxx.xxxxxxx.xxx.x.xxxxx.x.x.x.x.xxx.x.xxxxxxxxxxx.xxx.xxxxx.x.x
+x.x.x...x...x.x.......x.x.....x.x...x...x.x...x...x.x.x.x.x...x...x.x.x.....x.......x...x.....x...x.x
+x.x.x.xxxxxxxxxxxxxxxxx.x.xxxxx.x.x.xxx.x.x.x.x.xxx.x.x.x.x.xxxxxxx.x.xxxxx.x.xxxxx.x.xxx.xxxxx.xxx.x
+x.x.x.x...............x...x.x.....x.x...x...x...x...x.x.x.........x.x...x.x.x.x...x.x...x.....x.x...x
+x.x.x.x.xxxxxxxxxxx.xxxxxxx.x.xxxxx.x.xxxxxxxxxxxxx.x.x.x.xxxxxxxxx.xxx.x.x.x.xxx.x.xxx.xxxxx.x.x.x.x
+x.x.x.x.x.....x...x...........x.....x.......x.......x.x.x...x.........x.x.x.x...x.x...x...x.x.x.x.x.x
+x.x.x.x.x.xxx.x.x.xxxxxxxxxxxxx.xxxxxxxxxxx.x.x.xxx.x.x.xxxxx.xxxxxxx.x.x.x.xxx.x.xxx.xxx.x.x.x.xxx.x
+x...x.x...x.x...x...x.......x.x...x.....x...x.x.x...x...x.....x.......x.x...x.....x.....x...x...x...x
+xxxxx.xxxxx.xxxxxxx.xxxxx.x.x.xxx.x.x.x.x.xxx.x.xxxxxxxxx.xxxxx.xxxxxxx.xxxxx.xxxxx.x.xxxxx.xxxxx.x.x
+x.......x.........x.x.....x.x...x...x.x.x.x.x.x.x.....x...x...x.......x.......x.....x.x.....x.....x.x
+x.xxxxx.xxx.xxxxx.x.x.xxxxx.xxx.xxxxx.x.x.x.x.x.x.xxx.x.x.x.x.xxxxxxxxxxxxxxxxx.xxxxx.x.xxxxxxxxx.xxx
+x...x.....x.x...x.x...x.....x.......x.x.x.x...x...x...x.x.x.x.x...............x.x.....x.x.......x...x
+xxx.xxxxx.x.x.x.xxxxxxx.xxxxx.x.xxxxx.x.x.x.xxxxxxx.xxx.x.x.x.x.xxxxxxx.x.xxxxx.x.xxxxx.x.xxxxx.x.x.x
+x...x...x.x.x.x.....x...x.....x.x.....x.x.x.x.....x...x.x...x...x.x.....x.x.....x.....x...x...x.x.x.x
+x.xxx.x.x.x.x.xxx.xxx.xxx.xxxxx.x.xxxxx.x.xxx.xxx.x.x.x.xxxxxxxxx.x.xxxxx.x.xxxxxxxxxxxxxxx.x.x.xxx.x
+x...x.x.x...x...x...x...x.x.....x.x.....x.....x.x.x.x.x...x.......x.x...x.x...........x.....x...x...x
+x.x.x.x.xxx.xxx.xxx.xxx.x.x.xxxxx.xxxxxxxxxxxxx.x.x.x.xxx.x.xxxxx.x.x.x.x.xxxxxxxxxxx.x.xxxxxxxxx.xxx
+x.x.x.x...x...x.x.x...x...x.x...x...............x.x.x...x...x.....x.x.x.x.......x...x...x...........x
+x.x.x.xxx.xxx.x.x.xxx.xxxxx.x.xxxxxxxxxxxxxxx.xxx.xxxxx.xxxxx.xxxxx.x.xxxxxxxxx.xxx.xxxxxxxxx.xxxxx.x
+x.x...x.x...x.x.....x.....x.x.x...x.........x...x.....x.......x.....x.....x.....x...x...x...x.x.....x
+x.xxxxx.xxx.xxxxxxx.xxx.xxx.x.x.x.x.xxxxx.x.xxx.xxxxx.xxxxxxx.x.xxxxx.x.xxx.xxxxx.x.x.x.x.x.xxx.xxx.x
+x.x...x...x.x.....x...x...x.x...x.....x...x.x.......x...x...x.x.x.x...x...x.x.....x.x.x...x.....x...x
+x.x.x.xxx.x.x.xxx.xxx.xxx.x.xxxxxxxxxxx.xxx.x.xxxxxxxxx.x.x.xxx.x.x.xxxxx.x.x.xxxxx.x.xxxxxxxxxxx.xxx
+x...x.....x.....x.......x...............x...x.............x.....x.......x.....x.......x.............x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+**End Printing Maze**
+Enter any key to continue:
+[H[J
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+0
+
+The End!
+
