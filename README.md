@@ -20,8 +20,6 @@
     
 # Examples: 
 
-    ![Maze built over cliff](https://github.com/bfpill/dynamic_maze_solve/assets/85584607/c54c69bd-5081-4399-a1b5-f56228c31335 "Cliff Maze")
-    
-    ![Another](https://github.com/bfpill/dynamic_maze_solve/assets/85584607/9b131d3e-c626-4d40-bf9f-2947e352da23 "Cliff Maze 2")
-
+    <img width="903" alt="Screenshot 2023-11-07 at 9 21 17 AM" src="https://github.com/bfpill/dynamic_maze_solve/assets/85584607/e6d2fe4e-a9ec-44aa-854f-04e94431fec5">
+    <img width="1064" alt="Screenshot 2023-11-07 at 9 20 55 AM" src="https://github.com/bfpill/dynamic_maze_solve/assets/85584607/2a1ed122-e6b5-4568-94b0-2b3b7341736d">
     
