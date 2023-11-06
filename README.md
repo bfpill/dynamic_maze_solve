@@ -14,12 +14,12 @@
         Extension mode: ./mazerunner --hd
         Testing mode: ./mazerunner --testing
 
-## Note: 
+## Note:
     The Node class / solve was written by my friend Jimmy ( This was a group project )
     I added this to my public gh mostly because the mazes built over hills look cool
-    
-# Examples: 
 
-    <img width="903" alt="Screenshot 2023-11-07 at 9 21 17 AM" src="https://github.com/bfpill/dynamic_maze_solve/assets/85584607/e6d2fe4e-a9ec-44aa-854f-04e94431fec5">
-    <img width="1064" alt="Screenshot 2023-11-07 at 9 20 55 AM" src="https://github.com/bfpill/dynamic_maze_solve/assets/85584607/2a1ed122-e6b5-4568-94b0-2b3b7341736d">
-    
+# Examples:
+
+
+    ![cliff maze example](images/cliff_maze_one.png "Cliff Maze 1")
+    ![cliff maze example 2](images/cliff_maze_2.png "Cliff Maze 2")
